@@ -2,10 +2,10 @@
 
 ## Lernumgebung / Environment
 
-| **Beginner** | **Advanced** |
-|--------------|--------------|
-| :de: :uk: | :uk: |
-| `Windows` `Linux` | `Linux` |
+| **Beginner** | → | **Advanced** |
+|--------------|---|--------------|
+| :de: :uk: | → | :uk: |
+| `Windows` `Linux` | → | `Linux` |
 
 ## Lernpfade / Learning Paths
 
