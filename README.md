@@ -4,7 +4,7 @@
 
 | **Beginner** | **Advanced** |
 |--------------|--------------|
-| :de: / :uk: | :uk: |
+| :de: :uk: | :uk: |
 | `Windows` `Linux` `macOS` | `Linux` |
 
 ## 🧭 Lernpfade / Learning Paths
