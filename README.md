@@ -1,4 +1,4 @@
-# Computer-Kurse / Computer Courses
+# Kurse / Courses
 
 ## 📊 Lernumgebung / Environment
 
