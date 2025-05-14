@@ -1,9 +1,9 @@
 ## 📊 Lernumgebung / Environment
 
-|   | **Beginner** | **Advanced** |
-|---|--------------|--------------|
-| Sprache / Language | Deutsch / Englisch | Englisch |
-| Betriebssysteme / Operating systems | Windows, Linux, macOS | Linux |
+| **Beginner** | **Advanced** |
+|--------------|--------------|
+| Deutsch / Englisch | Englisch |
+| Windows, Linux, macOS | Linux |
 
 ## 🧭 Lernpfade / Learning Paths
 
