@@ -1,13 +1,13 @@
 # Kurse / Courses
 
-## 📊 Lernumgebung / Environment
+## Lernumgebung / Environment
 
 | **Beginner** | **Advanced** |
 |--------------|--------------|
 | :de: :uk: | :uk: |
 | `Windows` `Linux` `macOS` | `Linux` |
 
-## 🧭 Lernpfade / Learning Paths
+## Lernpfade / Learning Paths
 
 | **Beginner** | **Advanced** |
 |--------------|--------------|
