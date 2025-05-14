@@ -9,6 +9,8 @@
 
 ## Lernpfade / Learning Paths
 
-| **Beginner** | **Advanced** |
-|--------------|--------------|
-| …            | MongoDB retrieving ... |
+**Beginner**
+- ...
+
+**Advanced**
+- MongoDB retrieving ...
