@@ -1,4 +1,4 @@
-# Computer-Kurse für Anfänger und Fortgeschrittene / Computer Courses for Beginners and Advanced Learners
+# Computer-Kurse / Computer Courses
 
 ## 📊 Lernumgebung / Environment
 
