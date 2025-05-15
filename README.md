@@ -21,8 +21,8 @@
 
 ## Lernpfade / Learning Paths
 
-**🐥 Beginner**
+**🐥 Beginner (🇩🇪)**
 - ...
 
-**🦅 Advanced**
+**🦅 Advanced (🇬🇧)**
 - MongoDB retrieving ...
