@@ -1,5 +1,8 @@
 # Kurse / Courses
 
+**!! Die Kurse sind aktuell in Vorbereitung. Komme später noch mal vorbei.** <br>
+**!! The courses are currently in preparation. Come back later.**
+
 **🐥 Beginner (🇩🇪)**
 - HTML, CSS, JavaScript retrieving ...
 - Linux (Ubuntu) retrieving ...
