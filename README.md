@@ -1,15 +1,16 @@
-# Kurse / Courses
+# Lernpfade / Learning Paths
 
-**!! Die Kurse sind aktuell in Vorbereitung. Komme später noch mal vorbei. !!** <br>
-**!! The courses are currently in preparation. Come back later. !!**
+**!! Die Lernpfade sind aktuell in Vorbereitung. Komme später noch mal vorbei. !!** <br>
+**!! The learning paths are currently in preparation. Come back later. !!**
 
 **🐥 Beginner (🇩🇪)**
 - HTML, CSS, JavaScript retrieving ...
-- Linux (Ubuntu) retrieving ...
+- Linux retrieving ...
 
 **🦅 Advanced (🇬🇧)**
 - Ansible retrieving ...
 - Docker retrieving ...
 - MongoDB retrieving ...
 
-> Die fortgeschrittenen Kurse finden alle in einer Ubuntu-Umgebung statt, können aber genauso auf anderen Debian-basierten Linux-Distributionen (z. B. Debian, Mint oder Kali Linux) durchgeführt werden. Auf Fedora-, Arch- oder SUSE-basierten Linux-Distributionen sind teilweise etwas andere Kommandos erforderlich, insbesondere hinsichtlich der Installation von Software Paketen oder der Directory-Struktur). Falls Du noch keine Erfahrung mit Linux hast, empfehle ich Dir, zunächst diesen Kurs zu machen: Lernpfad: Linux (Ubuntu)
+> Die fortgeschrittenen Kurse finden alle in einer Ubuntu-Umgebung statt, können aber genauso auf anderen Debian-basierten Linux-Distributionen (z. B. Debian, Mint oder Kali Linux) durchgeführt werden. Auf Fedora-, Arch- oder SUSE-basierten Linux-Distributionen sind teilweise etwas andere Kommandos erforderlich, insbesondere hinsichtlich der Installation von Software Paketen oder der Directory-Struktur). Falls Du noch keine Erfahrung mit Linux hast, empfehle ich Dir, zunächst den [**Lernpfad: Linux**](https://github.com/tims-computer-academy/linux) zu machen.
+> The advanced courses all take place in an Ubuntu environment, but can also be run on other Debian-based Linux distributions (e.g. Debian, Mint or Kali Linux). On Fedora-, Arch- or SUSE-based Linux distributions, slightly different commands are sometimes required, especially with regard to the installation of software packages or the directory structure. If you have no experience with Linux, I recommend that you take the [**Learning path: Linux**](https://github.com/tims-computer-academy/linux) (in German language) first.
