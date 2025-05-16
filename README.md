@@ -1,7 +1,6 @@
 # Lernpfade / Learning Paths
 
 **!! Die Lernpfade sind aktuell in Vorbereitung. Komme später noch mal vorbei. !!** <br>
-**!! The learning paths are currently in preparation. Come back later. !!**
 
 **🐥 Beginner (🇩🇪)**
 - HTML, CSS, JavaScript retrieving ...
