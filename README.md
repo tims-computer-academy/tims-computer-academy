@@ -2,7 +2,7 @@
 
 **!! Die Lernpfade sind aktuell in Vorbereitung. Komme später noch mal vorbei. !!** <br>
 
-**🛫 Start hier (🇩🇪)**: kommt bald ...
+**🛫 Start hier (🇩🇪)**: Linux kommt bald ...
 
 **Beginner (🇩🇪)**
 - HTML, CSS, JavaScript kommt bald ...
@@ -14,4 +14,4 @@
 - Docker coming soon ...
 - [MongoDB](https://github.com/tims-computer-academy/mongodb)
 
-> Die fortgeschrittenen Kurse finden alle in einer Ubuntu-Umgebung statt, können aber genauso auf anderen Debian-basierten Linux-Distributionen (z. B. Debian oder Mint) durchgeführt werden. Auf anderen, etwa Fedora-, Arch- oder SUSE-basierten Linux-Distributionen, sind teilweise etwas andere Kommandos erforderlich, insbesondere hinsichtlich der Installation von Software-Paketen oder der Directory-Struktur. Falls Du noch keine Erfahrung mit Linux hast, empfehle ich Dir, zunächst den [**Lernpfad: Linux**](https://github.com/tims-computer-academy/linux) zu machen.<br>
+> Die Kurse finden in einer Ubuntu-Umgebung statt, können aber genauso auf anderen Debian-basierten Linux-Distributionen (z. B. Debian oder Mint) durchgeführt werden. Auf anderen, etwa Fedora-, Arch- oder SUSE-basierten Linux-Distributionen, sind teilweise etwas andere Kommandos erforderlich, insbesondere hinsichtlich der Installation von Software-Paketen oder der Directory-Struktur. Falls Du noch keine Erfahrung mit Linux hast, empfehle ich Dir, zunächst den [**Lernpfad: Linux**](https://github.com/tims-computer-academy/linux) (<i>kommt bald</i>) zu machen.<br>
