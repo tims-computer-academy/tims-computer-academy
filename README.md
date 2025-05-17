@@ -1,6 +1,7 @@
 # Lernpfade / Learning Paths
 
-**!! Die Lernpfade sind aktuell in Vorbereitung. Komme später noch mal vorbei. !!** <br>
+**!! Diese Seite ist aktuell im Aufbau. Komme später noch mal vorbei. !!** <br>
+Letztes Update: 17. Mai 2025 - "Learning Path: MongoDB" freigeschaltet
 
 **🛫 Starte hier (🇩🇪)**: Linux kommt bald ...
 
